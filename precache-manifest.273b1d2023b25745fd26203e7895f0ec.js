@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3b856d979d205897890f20eae24bc196",
+    "revision": "826833c7443031010dd7f496c015a1a9",
     "url": "/localiza-project/index.html"
   },
   {
-    "revision": "88b10126b793aebc0fc2",
+    "revision": "6fd1b83bcbdffc955052",
     "url": "/localiza-project/static/css/main.6c684a23.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/localiza-project/static/js/2.9c15775c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "88b10126b793aebc0fc2",
-    "url": "/localiza-project/static/js/main.972c510c.chunk.js"
+    "revision": "6fd1b83bcbdffc955052",
+    "url": "/localiza-project/static/js/main.96248c5e.chunk.js"
   },
   {
     "revision": "5b8faa120bd5e2ce6c10",
