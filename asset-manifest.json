@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/localiza-project/static/css/main.6c684a23.chunk.css",
-    "main.js": "/localiza-project/static/js/main.edc543d4.chunk.js",
-    "main.js.map": "/localiza-project/static/js/main.edc543d4.chunk.js.map",
+    "main.js": "/localiza-project/static/js/main.972c510c.chunk.js",
+    "main.js.map": "/localiza-project/static/js/main.972c510c.chunk.js.map",
     "runtime-main.js": "/localiza-project/static/js/runtime-main.1a2fedad.js",
     "runtime-main.js.map": "/localiza-project/static/js/runtime-main.1a2fedad.js.map",
     "static/js/2.9c15775c.chunk.js": "/localiza-project/static/js/2.9c15775c.chunk.js",
     "static/js/2.9c15775c.chunk.js.map": "/localiza-project/static/js/2.9c15775c.chunk.js.map",
     "index.html": "/localiza-project/index.html",
-    "precache-manifest.e64bb02f3ab587ab74bc090e51b22009.js": "/localiza-project/precache-manifest.e64bb02f3ab587ab74bc090e51b22009.js",
+    "precache-manifest.b8da1bd8347d1c1c5a87e82823ac3d30.js": "/localiza-project/precache-manifest.b8da1bd8347d1c1c5a87e82823ac3d30.js",
     "service-worker.js": "/localiza-project/service-worker.js",
     "static/css/main.6c684a23.chunk.css.map": "/localiza-project/static/css/main.6c684a23.chunk.css.map",
     "static/js/2.9c15775c.chunk.js.LICENSE.txt": "/localiza-project/static/js/2.9c15775c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1a2fedad.js",
     "static/js/2.9c15775c.chunk.js",
     "static/css/main.6c684a23.chunk.css",
-    "static/js/main.edc543d4.chunk.js"
+    "static/js/main.972c510c.chunk.js"
   ]
 }
